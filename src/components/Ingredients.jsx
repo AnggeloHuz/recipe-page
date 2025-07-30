@@ -7,13 +7,13 @@ function Ingredients() {
             Ingredients
           </h2>
 
-          <ul className="list-disc px-6 font-Outfit text-Stone-600">
-            <li className="mb-2 px-3">2-3 large eggs</li>
-            <li className="mb-2 px-3">Salt, to taste</li>
-            <li className="mb-2 px-3">Pepper, to taste</li>
-            <li className="mb-2 px-3">1 tablespoon of butter or oil</li>
-            <li className="mb-2 px-3">
-              Optional fillings: cheese, diced vegetables, cooked meats, herbs
+          <ul className="list-disc font-Outfit text-Stone-600">
+            <li className="mb-2 px-3 flex gap-8 items-center"><span class="text-Brown-800 text-lg font-bold">&#x2022;</span>2-3 large eggs</li>
+            <li className="mb-2 px-3 flex gap-8 items-center"><span class="text-Brown-800 text-lg font-bold">&#x2022;</span>Salt, to taste</li>
+            <li className="mb-2 px-3 flex gap-8 items-center"><span class="text-Brown-800 text-lg font-bold">&#x2022;</span>Pepper, to taste</li>
+            <li className="mb-2 px-3 flex gap-8 items-center"><span class="text-Brown-800 text-lg font-bold">&#x2022;</span>1 tablespoon of butter or oil</li>
+            <li className="mb-2 px-3 flex gap-8 items-center">
+              <span class="text-Brown-800 text-lg font-bold">&#x2022;</span>Optional fillings: cheese, diced vegetables, cooked meats, herbs
             </li>
           </ul>
         </div>

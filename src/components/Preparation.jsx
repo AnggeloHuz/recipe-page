@@ -7,15 +7,24 @@ function Preparation() {
             Preparation time
           </h4>
 
-          <ul className="list-disc px-6 text-base font-Outfit">
-            <li className="text-Stone-600 font-medium mb-2 px-4">
-              <b>Total: </b>Approximately 10 minutes
+          <ul className="text-base font-Outfit">
+            <li className="text-Stone-600 font-medium mb-2 px-4 flex items-center">
+              <span class="text-Rose-800 text-lg font-bold mr-8">&#x2022;</span>
+              <span>
+                <b>Total: </b>Approximately 10 minutes
+              </span>
             </li>
-            <li className="text-Stone-600 font-medium mb-2 px-4">
-              <b>Preparation: </b>5 minutes
+            <li className="text-Stone-600 font-medium mb-2 px-4 flex items-center">
+              <span class="text-Rose-800 text-lg font-bold mr-8">&#x2022;</span>
+              <span>
+                <b>Preparation: </b>5 minutes
+              </span>
             </li>
-            <li className="text-Stone-600 font-medium mb-2 px-4">
-              <b>Cooking: </b>5 minutes
+            <li className="text-Stone-600 font-medium mb-2 px-4 flex items-center">
+              <span class="text-Rose-800 text-lg font-bold mr-8">&#x2022;</span>
+              <span>
+                <b>Cooking: </b>5 minutes
+              </span>
             </li>
           </ul>
         </div>
